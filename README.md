@@ -24,6 +24,7 @@ If script detects configuration problem, it suggests how to solve it.
 * Arch Linux
 * Manjaro Linux
 * EndeavourOS
+* Garuda Linux
 
 ## Installation:
 
